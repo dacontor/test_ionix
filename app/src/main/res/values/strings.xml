@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestIonix</string>
+    <string name="apoyando_negocios">APOYANDO NEGOCIOS</string>
+    <string name="rut">Rut</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="recuperar_pass">Recuperar Contraseña</string>
+</resources>
